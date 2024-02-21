@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Web Pages**
 
-- 🌱 I’m currently learning **Java,Python**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **C,C++,Html,Css,Js,Java,Python**
+- 💬 Ask me about **C,C++,Html,Css,Js,Python**
 
 - 📫 How to reach me **muneebawang@gmail.com**
 
