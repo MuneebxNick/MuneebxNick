@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Pages**
 
-- 🌱 I’m currently learning **Js**
+- 🌱 I’m currently learning **Js,C++**
 
 - 💬 Ask me about **C,C++,Html,Css,Js,Python**
 
