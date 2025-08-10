@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **C,C++,Html,Css,Js,Python,Flutter**
 
