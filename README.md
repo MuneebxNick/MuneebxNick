@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneebxnick&label=Profile%20views&color=0e75b6&style=flat" alt="muneebxnick" /> </p>
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently working on **Web Pages**
 
 - 🌱 I’m currently learning **Web Development**
 
